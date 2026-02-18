@@ -1,2 +1,7 @@
 # WorkForce-Lens
 A multi-source global workforce study revealing how gender, sector shifts, and population growth are reshaping employment from agriculture to services.
+
+This project explores global employment patterns across sectors, genders, and regions using data sourced from the World Bank Jobs DataBank. The datasets covered employment in industry, agriculture, and services — broken down by male and female — and were cleaned using Power Query in Excel, then merged using a Python script based on shared country codes across all datasets.
+Analysis covered six key areas:
+The project examined gender divergence across all employment sectors to highlight inequality gaps, then identified the top countries by employer count in each sector. A dedicated focus on Egypt explored workforce distribution and age demographics to understand how population age structure affects employment. An Arab countries trend analysis mapped historical employment patterns to support future planning. The study also examined how rapid population growth can be leveraged as a workforce asset, and investigated obstacles facing the industrial sector as it competes with the growing services economy.
+Key Findings showed that the services sector dominates global employment and continues to grow, with females holding 60% of service jobs. Agriculture is declining likely due to mechanization, while industry grows slowly. Pakistan leads in population growth but lags in employment absorption, and Egypt ranks as a leading country across all three sectors.
